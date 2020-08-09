@@ -3,12 +3,15 @@
   "version": "0.0.1",
   "description": "See how well your NPM Package and Github Repository will perform, and how to improve it.",
   "main": "index.js",
+  "bin": {
+    "scorefinder": "main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/npm/cli.git"
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
   },
   "keywords": [
     "cli",
@@ -25,7 +28,10 @@
     "community"
   ],
   "author": "William McGonagle",
-  "url" : "https://github.com/william-mcgonagle/scorefinder/issues",
-  "email" : "wmcgonagle@optonline.net",
-  "license": "ISC"
+  "url": "https://github.com/william-mcgonagle/scorefinder/issues",
+  "email": "wmcgonagle@optonline.net",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
