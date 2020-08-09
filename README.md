@@ -5,13 +5,13 @@
 [![npm](https://img.shields.io/npm/dw/scorefinder)](https://github.com/william-mcgonagle/scorefinder/)
 
 <!-- eye-catcher -->
-[![installation](/promotional/eye-catcher.png)](https://github.com/william-mcgonagle/scorefinder/)
+[![installation](https://github.com/William-McGonagle/scorefinder/blob/master/promotional/eye-catcher.png?raw=true)](https://github.com/william-mcgonagle/scorefinder/)
 
 ## Installation
 
 To install scorefinder, you need NPM. Once you have that installed, you just need to type `npm install scorefinder` into your terminal of choice, and you will have full access to this tool.
 
-![installation](/promotional/install.png)
+[![installation](https://github.com/William-McGonagle/scorefinder/blob/master/promotional/install.png?raw=true)](https://github.com/william-mcgonagle/scorefinder/)
 
 ## Use
 There are three commands currently implemented: eval, help, and score.
