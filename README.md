@@ -3,6 +3,9 @@
 
 <!-- badges -->
 [![npm](https://img.shields.io/npm/dw/scorefinder)](https://github.com/william-mcgonagle/scorefinder/)
+[![GitHub top language](https://img.shields.io/github/languages/top/william-mcgonagle/scorefinder)](https://github.com/william-mcgonagle/scorefinder/)
+[![GitHub issues](https://img.shields.io/github/issues/william-mcgonagle/scorefinder)](https://github.com/william-mcgonagle/scorefinder/)
+[![npm](https://img.shields.io/npm/v/scorefinder)](https://github.com/william-mcgonagle/scorefinder/)
 
 <!-- eye-catcher -->
 [![installation](https://github.com/William-McGonagle/scorefinder/blob/master/promotional/eye-catcher.png?raw=true)](https://github.com/william-mcgonagle/scorefinder/)
